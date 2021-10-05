@@ -1,5 +1,7 @@
 # Laravel Elastic Query Specification
 
+`Deprecated, use https://github.com/ensi-platform/laravel-elastic-query-specification instead`
+
 Extension for [greensight/laravel-elastic-query](https://github.com/greensight/laravel-elastic-query/) to describe queries in a declarative way.
 
 ## Installation
